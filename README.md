@@ -1,12 +1,16 @@
 # Kamal Aggarwal — Personal Portfolio
 
-A modern and responsive personal portfolio website built to showcase my technical skills, professional experience, education, and work in software development, data analytics, and machine learning.
+A modern, responsive personal portfolio website built to showcase my technical skills, professional experience, education, projects, and work in software development, data analytics, and machine learning.
 
-## 🌐 Overview
+## 🌐 Live Portfolio
 
-This portfolio presents my background as a final-year B.Tech. Information Technology student at USICT, GGSIPU, along with my technical skills, internships, leadership experience, and projects.
+🔗 **[Visit My Portfolio](https://kamal-portfolio-vert.vercel.app/)**
 
-The website features a clean, modern interface with responsive layouts, interactive elements, smooth animations, and light/dark theme support.
+## 📌 Overview
+
+This portfolio presents my background as a final-year B.Tech. Information Technology student at USICT, GGSIPU, along with my technical skills, internships, leadership experience, education, and projects.
+
+The website features a clean and modern interface with responsive layouts, interactive elements, smooth animations, and light/dark theme support.
 
 ## ✨ Features
 
@@ -17,7 +21,7 @@ The website features a clean, modern interface with responsive layouts, interact
 - Downloadable resume
 - Social and professional links
 - Smooth hover effects and animations
-- Clean and minimal UI
+- Clean and minimal user interface
 
 ## 🛠️ Tech Stack
 
@@ -26,6 +30,7 @@ The website features a clean, modern interface with responsive layouts, interact
 - **Styling:** Tailwind CSS
 - **Language:** JavaScript
 - **Icons:** Lucide React
+- **Deployment:** Vercel
 
 ## 💻 Getting Started
 
@@ -36,3 +41,4 @@ git clone https://github.com/aggarwalkamal123/portfolio.git
 cd portfolio
 npm install
 npm run dev
+Open http://localhost:3000 in your browser to view the website.
