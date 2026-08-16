@@ -24,7 +24,7 @@ const socialLinks = [
     },
     {
         name: "Instagram",
-        href: "https://www.instagram.com/",
+        href: "https://www.instagram.com/Kamalaggarwal2",
         icon: Camera,
     },
 ];
